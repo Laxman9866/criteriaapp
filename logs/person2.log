@@ -1,0 +1,69 @@
+"2018-04-21 09:42:12 [main] INFO  c.s.criteria.CriteriaApplication.logStarting - Starting CriteriaApplication on DESKTOP-RU89M8I with PID 6428 (started by laxmi in C:\Angular Js Projects\criteria)
+""2018-04-21 09:42:12 [main] DEBUG c.s.criteria.CriteriaApplication.logStarting - Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+""2018-04-21 09:42:12 [main] INFO  c.s.criteria.CriteriaApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+""2018-04-21 09:42:21 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+""2018-04-21 09:42:21 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet Engine: Apache Tomcat/8.5.29
+""2018-04-21 09:42:22 [localhost-startStop-1] INFO  o.a.c.core.AprLifecycleListener.log - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.8.0_121/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_121/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_121/bin/../jre/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\;E:\java\apache-maven-3.3.9\bin;C:\Program Files\Git\cmd;C:\Users\laxmi\AppData\Local\Microsoft\WindowsApps;C:\Users\laxmi\AppData\Roaming\npm;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk1.8.0_121\bin;;E:\java\eclipse;;.]
+""2018-04-21 09:42:22 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+""2018-04-21 09:42:23 [main] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Starting...
+""2018-04-21 09:42:25 [main] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Start completed.
+""2018-04-21 09:42:34 [main] INFO  c.s.criteria.CriteriaApplication.logStarted - Started CriteriaApplication in 23.652 seconds (JVM running for 25.26)
+""2018-04-21 10:29:05 [main] INFO  c.s.criteria.CriteriaApplication.logStarting - Starting CriteriaApplication on DESKTOP-RU89M8I with PID 2704 (started by laxmi in C:\Angular Js Projects\criteria)
+""2018-04-21 10:29:05 [main] DEBUG c.s.criteria.CriteriaApplication.logStarting - Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+""2018-04-21 10:29:05 [main] INFO  c.s.criteria.CriteriaApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+""2018-04-21 10:30:02 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+""2018-04-21 10:30:02 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet Engine: Apache Tomcat/8.5.29
+""2018-04-21 10:30:02 [localhost-startStop-1] INFO  o.a.c.core.AprLifecycleListener.log - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.8.0_121/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_121/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_121/bin/../jre/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\;E:\java\apache-maven-3.3.9\bin;C:\Program Files\Git\cmd;C:\Users\laxmi\AppData\Local\Microsoft\WindowsApps;C:\Users\laxmi\AppData\Roaming\npm;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk1.8.0_121\bin;;E:\java\eclipse;;.]
+""2018-04-21 10:30:03 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+""2018-04-21 10:30:09 [main] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Starting...
+""2018-04-21 10:30:13 [main] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Start completed.
+""2018-04-21 10:30:46 [main] INFO  c.s.criteria.CriteriaApplication.logStarted - Started CriteriaApplication in 107.932 seconds (JVM running for 112.263)
+""2018-04-21 10:34:02 [http-nio-8084-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring FrameworkServlet 'dispatcherServlet'
+""2018-04-21 10:34:03 [http-nio-8084-exec-1] TRACE c.s.criteria.service.PersonService.personCriteria - Enter into personCriteria in PersonService 
+""2018-04-21 10:34:03 [http-nio-8084-exec-1] TRACE com.slokam.criteria.dao.PersonDAO.personCriteria - Enter into personCriteria in PersonDAO 
+""2018-04-21 10:34:03 [http-nio-8084-exec-1] DEBUG com.slokam.criteria.dao.PersonDAO.personCriteria -  Country Name    :i%
+""2018-04-21 10:34:04 [http-nio-8084-exec-1] INFO  com.slokam.criteria.dao.PersonDAO.personCriteria - Sucessfully returned Person List of Data
+""2018-04-21 10:34:04 [http-nio-8084-exec-1] TRACE com.slokam.criteria.dao.PersonDAO.personCriteria - Exit from personCriteria in PersonDAO 
+""2018-04-21 10:34:05 [http-nio-8084-exec-1] TRACE c.slokam.criteria.file.NameFileUtil.generateFile - Enter into generateFile in NameFileUtil 
+""2018-04-21 10:34:05 [http-nio-8084-exec-1] DEBUG c.slokam.criteria.file.NameFileUtil.generateFile -  File Type    :xlsx
+""2018-04-21 10:34:05 [http-nio-8084-exec-1] INFO  c.slokam.criteria.file.NameFileUtil.generateFile - Sucessfully returned xlsx type
+""2018-04-21 10:34:05 [http-nio-8084-exec-1] TRACE c.slokam.criteria.file.NameFileUtil.generateFile - Exit from generateFile in NameFileUtil 
+""2018-04-21 10:34:05 [http-nio-8084-exec-1] TRACE c.s.criteria.file.XcellFileGenerator.getFileGenerator - Enter into getFileGenerator in XcellFileGenerator 
+""2018-04-21 10:34:11 [http-nio-8084-exec-1] DEBUG c.s.criteria.file.XcellFileGenerator.getFileGenerator -  Folder with Name   :E:\fileupload\xml\xml\1524287044586\3-mammu.xlsx
+""2018-04-21 10:34:12 [http-nio-8084-exec-1] INFO  c.s.criteria.file.XcellFileGenerator.getFileGenerator - Sucessfully Created Xcell File
+""2018-04-21 10:34:12 [http-nio-8084-exec-1] DEBUG c.s.criteria.file.XcellFileGenerator.getFileGenerator -  Folder with Name   :E:\fileupload\xml\xml\1524287044586\2-lucky.xlsx
+""2018-04-21 10:34:12 [http-nio-8084-exec-1] INFO  c.s.criteria.file.XcellFileGenerator.getFileGenerator - Sucessfully Created Xcell File
+""2018-04-21 10:34:13 [http-nio-8084-exec-1] TRACE c.s.criteria.file.XcellFileGenerator.getFileGenerator - Exit from getFileGenerator in XcellFileGenerator 
+""2018-04-21 10:34:13 [http-nio-8084-exec-1] INFO  c.s.criteria.service.PersonService.personCriteria - Sucessfully returned Person List of Data
+""2018-04-21 10:34:13 [http-nio-8084-exec-1] TRACE c.s.criteria.service.PersonService.personCriteria - Exit from personCriteria in PersonService 
+""2018-04-21 10:34:13 [http-nio-8084-exec-1] TRACE c.s.c.controller.PersonController.personCriteria - Exit from personCriteria in PersonController 
+""2018-04-21 10:35:36 [main] INFO  c.s.criteria.CriteriaApplication.logStarting - Starting CriteriaApplication on DESKTOP-RU89M8I with PID 9200 (started by laxmi in C:\Angular Js Projects\criteria)
+""2018-04-21 10:35:36 [main] DEBUG c.s.criteria.CriteriaApplication.logStarting - Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+""2018-04-21 10:35:36 [main] INFO  c.s.criteria.CriteriaApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+""2018-04-21 10:35:45 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+""2018-04-21 10:35:45 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet Engine: Apache Tomcat/8.5.29
+""2018-04-21 10:35:45 [localhost-startStop-1] INFO  o.a.c.core.AprLifecycleListener.log - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.8.0_121/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_121/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_121/bin/../jre/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\;E:\java\apache-maven-3.3.9\bin;C:\Program Files\Git\cmd;C:\Users\laxmi\AppData\Local\Microsoft\WindowsApps;C:\Users\laxmi\AppData\Roaming\npm;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk1.8.0_121\bin;;E:\java\eclipse;;.]
+""2018-04-21 10:35:45 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+""2018-04-21 10:35:47 [main] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Starting...
+""2018-04-21 10:35:48 [main] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Start completed.
+""2018-04-21 10:36:00 [main] INFO  c.s.criteria.CriteriaApplication.logStarted - Started CriteriaApplication in 25.848 seconds (JVM running for 27.448)
+""2018-04-21 10:36:19 [http-nio-8084-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring FrameworkServlet 'dispatcherServlet'
+""2018-04-21 10:36:21 [http-nio-8084-exec-1] TRACE c.s.criteria.service.PersonService.personCriteria - Enter into personCriteria in PersonService 
+""2018-04-21 10:36:21 [http-nio-8084-exec-1] TRACE com.slokam.criteria.dao.PersonDAO.personCriteria - Enter into personCriteria in PersonDAO 
+""2018-04-21 10:36:21 [http-nio-8084-exec-1] DEBUG com.slokam.criteria.dao.PersonDAO.personCriteria -  Country Name    :i%
+""2018-04-21 10:36:22 [http-nio-8084-exec-1] INFO  com.slokam.criteria.dao.PersonDAO.personCriteria - Sucessfully returned Person List of Data
+""2018-04-21 10:36:22 [http-nio-8084-exec-1] TRACE com.slokam.criteria.dao.PersonDAO.personCriteria - Exit from personCriteria in PersonDAO 
+""2018-04-21 10:36:22 [http-nio-8084-exec-1] TRACE c.slokam.criteria.file.NameFileUtil.generateFile - Enter into generateFile in NameFileUtil 
+""2018-04-21 10:36:22 [http-nio-8084-exec-1] DEBUG c.slokam.criteria.file.NameFileUtil.generateFile -  File Type    :pdf
+""2018-04-21 10:36:22 [http-nio-8084-exec-1] INFO  c.slokam.criteria.file.NameFileUtil.generateFile - Sucessfully returned pdf type
+""2018-04-21 10:36:22 [http-nio-8084-exec-1] TRACE c.slokam.criteria.file.NameFileUtil.generateFile - Exit from generateFile in NameFileUtil 
+""2018-04-21 10:36:22 [http-nio-8084-exec-1] TRACE c.slokam.criteria.file.PdfFileReader.getFileGenerator - Enter into getFileGenerator in PdfFileReader 
+""2018-04-21 10:36:22 [http-nio-8084-exec-1] DEBUG c.slokam.criteria.file.PdfFileReader.getFileGenerator -  Folder with Name   :E:\fileupload\xml\xml\1524287182119\3-mammu.pdf
+""2018-04-21 10:36:25 [http-nio-8084-exec-1] INFO  c.slokam.criteria.file.PdfFileReader.getFileGenerator - Sucessfully Created PDF File
+""2018-04-21 10:36:25 [http-nio-8084-exec-1] DEBUG c.slokam.criteria.file.PdfFileReader.getFileGenerator -  Folder with Name   :E:\fileupload\xml\xml\1524287182119\2-lucky.pdf
+""2018-04-21 10:36:25 [http-nio-8084-exec-1] INFO  c.slokam.criteria.file.PdfFileReader.getFileGenerator - Sucessfully Created PDF File
+""2018-04-21 10:36:25 [http-nio-8084-exec-1] TRACE c.slokam.criteria.file.PdfFileReader.getFileGenerator - Exit from getFileGenerator in PdfFileReader 
+""2018-04-21 10:36:26 [http-nio-8084-exec-1] INFO  c.s.criteria.service.PersonService.personCriteria - Sucessfully returned Person List of Data
+""2018-04-21 10:36:26 [http-nio-8084-exec-1] TRACE c.s.criteria.service.PersonService.personCriteria - Exit from personCriteria in PersonService 
+""2018-04-21 10:36:26 [http-nio-8084-exec-1] TRACE c.s.c.controller.PersonController.personCriteria - Exit from personCriteria in PersonController 
+"

@@ -1,0 +1,38 @@
+"2018-04-19 17:31:55 [main] INFO  c.s.criteria.CriteriaApplication.logStarting - Starting CriteriaApplication on DESKTOP-RU89M8I with PID 7504 (started by laxmi in C:\Angular Js Projects\criteria)
+""2018-04-19 17:31:55 [main] DEBUG c.s.criteria.CriteriaApplication.logStarting - Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+""2018-04-19 17:31:55 [main] INFO  c.s.criteria.CriteriaApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+""2018-04-19 17:32:07 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+""2018-04-19 17:32:07 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet Engine: Apache Tomcat/8.5.29
+""2018-04-19 17:32:07 [localhost-startStop-1] INFO  o.a.c.core.AprLifecycleListener.log - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.8.0_121/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_121/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_121/bin/../jre/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\;E:\java\apache-maven-3.3.9\bin;C:\Program Files\Git\cmd;C:\Users\laxmi\AppData\Local\Microsoft\WindowsApps;C:\Users\laxmi\AppData\Roaming\npm;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk1.8.0_121\bin;;E:\java\eclipse;;.]
+""2018-04-19 17:32:08 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+""2018-04-19 17:32:09 [main] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Starting...
+""2018-04-19 17:32:10 [main] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariPool-1 - Start completed.
+""2018-04-19 17:32:20 [main] INFO  c.s.criteria.CriteriaApplication.logStarted - Started CriteriaApplication in 27.703 seconds (JVM running for 30.138)
+""2018-04-19 17:32:36 [http-nio-8084-exec-10] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring FrameworkServlet 'dispatcherServlet'
+""2018-04-19 17:32:38 [http-nio-8084-exec-10] TRACE c.s.c.controller.PersonController.personCriteria - Enter into personCriteria in PersonController 
+""2018-04-19 17:32:38 [http-nio-8084-exec-10] DEBUG c.s.c.controller.PersonController.personCriteria - Generated Folder :E:\fileupload\xml\xml\
+""2018-04-19 17:32:38 [http-nio-8084-exec-10] DEBUG c.s.c.controller.PersonController.personCriteria - Final Folder :E:\fileupload\xml\xml\1524139358379\
+""2018-04-19 17:32:38 [http-nio-8084-exec-10] TRACE c.s.criteria.service.PersonService.personCriteria - Enter into personCriteria in PersonService 
+""2018-04-19 17:32:38 [http-nio-8084-exec-10] TRACE com.slokam.criteria.dao.PersonDAO.personCriteria - Enter into personCriteria in PersonDAO 
+""2018-04-19 17:32:38 [http-nio-8084-exec-10] DEBUG com.slokam.criteria.dao.PersonDAO.personCriteria -  Country Name    :i%
+""2018-04-19 17:32:38 [http-nio-8084-exec-10] INFO  com.slokam.criteria.dao.PersonDAO.personCriteria - Sucessfully returned Person List of Data
+""2018-04-19 17:32:38 [http-nio-8084-exec-10] TRACE com.slokam.criteria.dao.PersonDAO.personCriteria - Exit from personCriteria in PersonDAO 
+""2018-04-19 17:32:38 [http-nio-8084-exec-10] INFO  c.s.criteria.service.PersonService.personCriteria - Sucessfully returned Person List of Data
+""2018-04-19 17:32:38 [http-nio-8084-exec-10] TRACE c.s.criteria.service.PersonService.personCriteria - Exit from personCriteria in PersonService 
+""2018-04-19 17:32:38 [http-nio-8084-exec-10] DEBUG c.s.c.controller.PersonController.personCriteria -  Person Records :2
+""2018-04-19 17:32:38 [http-nio-8084-exec-10] TRACE c.slokam.criteria.file.NameFileUtil.generateFile - Enter into generateFile in NameFileUtil 
+""2018-04-19 17:32:38 [http-nio-8084-exec-10] DEBUG c.slokam.criteria.file.NameFileUtil.generateFile -  File Type    :xml
+""2018-04-19 17:32:38 [http-nio-8084-exec-10] INFO  c.slokam.criteria.file.NameFileUtil.generateFile - Sucessfully returned xml type
+""2018-04-19 17:32:38 [http-nio-8084-exec-10] TRACE c.slokam.criteria.file.NameFileUtil.generateFile - Exit from generateFile in NameFileUtil 
+""2018-04-19 17:32:38 [http-nio-8084-exec-10] DEBUG c.s.c.controller.PersonController.personCriteria -  Generator Object :com.slokam.criteria.file.XmlFileGenerator@33672d0
+""2018-04-19 17:32:38 [http-nio-8084-exec-10] TRACE c.s.criteria.file.XmlFileGenerator.getFileGenerator - Enter into getFileGenerator in XmlFileGenerator 
+""2018-04-19 17:32:39 [http-nio-8084-exec-10] DEBUG c.s.criteria.file.XmlFileGenerator.getFileGenerator -  Folder with Name   :E:\fileupload\xml\xml\1524139358379\3-mammu.xml
+""2018-04-19 17:32:39 [http-nio-8084-exec-10] INFO  c.s.criteria.file.XmlFileGenerator.getFileGenerator - Sucessfully Created XML File
+""2018-04-19 17:32:39 [http-nio-8084-exec-10] DEBUG c.s.criteria.file.XmlFileGenerator.getFileGenerator -  Folder with Name   :E:\fileupload\xml\xml\1524139358379\2-lucky.xml
+""2018-04-19 17:32:39 [http-nio-8084-exec-10] INFO  c.s.criteria.file.XmlFileGenerator.getFileGenerator - Sucessfully Created XML File
+""2018-04-19 17:32:39 [http-nio-8084-exec-10] TRACE c.s.criteria.file.XmlFileGenerator.getFileGenerator - Exit from getFileGenerator in XmlFileGenerator 
+""2018-04-19 17:32:39 [http-nio-8084-exec-10] DEBUG c.s.c.controller.PersonController.personCriteria -  File Names :[Ljava.lang.String;@5163592b
+""2018-04-19 17:32:39 [http-nio-8084-exec-10] DEBUG c.s.c.controller.PersonController.personCriteria -  Zip   :E:\fileupload\xml\xml\Zipfloder.zip
+""2018-04-19 17:32:39 [http-nio-8084-exec-10] INFO  c.s.c.controller.PersonController.personCriteria - Sucessfully Zip File Created
+""2018-04-19 17:32:39 [http-nio-8084-exec-10] TRACE c.s.c.controller.PersonController.personCriteria - Exit from personCriteria in PersonController 
+"
